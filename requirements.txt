@@ -1,0 +1,6 @@
+aiogram
+openai
+python-transfer-sh
+python-dotenv
+ffmpeg-python
+fal-client
