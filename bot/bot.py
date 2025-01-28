@@ -40,7 +40,7 @@ openai_client = openai.OpenAI(
 )
 
 # === КОНСТАНТЫ ===
-MAX_MESSAGE_LENGTH = 4096
+MAX_MESSAGE_LENGTH = 3990
 TOTAL_STEPS = 4
 
 HELP_MESSAGE = """
